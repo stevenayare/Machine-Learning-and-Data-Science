@@ -3,7 +3,7 @@
 Parkinson Prediction Logistic Regression Model
 This repository contains a Parkinson Prediction Logistic Regression Model. The model is built using logistic regression to predict the presence or absence of Parkinson's disease based on various attributes.
 Dataset
-The dataset used in this model is the Parkinsons Data Set which is available from the UCI Machine Learning Repository. This dataset contains biomedical voice measurements from 42 people with early-stage Parkinson's disease, obtained from a telemonitoring device. The dataset has a total of 5875 instances and 20 features.
+The dataset used in this model is the Parkinsons Data Set which is available from the UCI Machine Learning Repository. This dataset contains biomedical voice measurements from various people with early-stage Parkinson's disease, obtained from a telemonitoring device. The dataset has a total of 756 instances and 755 features.
 Requirements
 •	Python 3.6 or above
 •	NumPy
